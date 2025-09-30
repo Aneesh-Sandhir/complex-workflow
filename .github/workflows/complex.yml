@@ -13,7 +13,7 @@ jobs:
     steps: 
     - run: date
   job3:
-    runs-on: mac-os:latest
+    runs-on: macos-latest
     steps: 
     - run: date
   job4:
